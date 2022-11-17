@@ -15,9 +15,6 @@ settings -> developer settings -> personal access tokens -> tokens classic -> ge
 git clone https://"access-token"@github.com/Adamnite/goAdamnite.git
 ```
 
-```
- git clone https://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@github.com/Adamnite/goAdamnite.git
-```
 
 ```
 chmod u=rwx,g=r,o=r ./nite
