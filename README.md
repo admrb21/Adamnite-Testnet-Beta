@@ -8,6 +8,7 @@ sudo apt update && sudo apt upgrade -y
 
 ### Kurulum
 Repo private olduğu için access tokene ihtiyacamız var, bunun için;
+
 settings -> developer settings -> personal access tokens -> tokens classic -> generate new token
 
 ```
