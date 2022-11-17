@@ -2,9 +2,9 @@
 
 
 ### Sistem Güncellemesi Yapalım
-``
+```
 sudo apt update && sudo apt upgrade -y
-``
+```
 
 ### Kurulum
 Repo private olduğu için access tokene ihtiyacamız var, bunun için;
