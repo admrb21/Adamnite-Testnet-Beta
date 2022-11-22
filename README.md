@@ -41,7 +41,7 @@ Check your balance by running nite-test ``--balance "your public address"``
 Bakiyenizi bu komutu çalıştırarak kontrol edin ``nite-test --balance "your public address"``
 
 ```
-.\nite-test.exe (.\nite.test if you are on Linux) --sendaddr "the address you want to send coins to" --recaddr "your public address" --amount "the amount you want to send" --keyfile "the directory where you saved your keyfile in the account creation step --password "your password from the previous step"
+./nite-test --sendaddr "the address you want to send coins to" --recaddr "your public address" --amount "the amount you want to send" --keyfile "the directory where you saved your keyfile in the account creation step --password "your password from the previous step"
 ```
 
 Run nite-test -h for help and additional commands.
