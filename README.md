@@ -36,7 +36,7 @@ First, make sure you are in the nite-test directory.
 
 Öncelikle, nite-test dizininde olduğunuzdan emin olun.
 
-Check your balance by running nite-test ``--balance "your public address"``
+Check your balance by running ``nite-test --balance "your public address"``
 
 Bakiyenizi bu komutu çalıştırarak kontrol edin ``nite-test --balance "your public address"``
 
