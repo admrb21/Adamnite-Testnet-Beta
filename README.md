@@ -17,7 +17,7 @@ cd goAdamnite/Ubuntu
 ```
 
 ```
-chmod +x gnite
+chmod +x goAdamnite/Ubuntu/gnite
 ```
 
 ```
