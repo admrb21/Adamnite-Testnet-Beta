@@ -23,7 +23,9 @@ chmod +x goAdamnite/Ubuntu/gnite
 ```
 ./gnite account new
 ```
-
+```
+screen -S adamnite
+```
 ```
 ./gnite
 ```
