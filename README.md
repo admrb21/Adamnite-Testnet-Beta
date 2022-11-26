@@ -19,7 +19,9 @@ cd goAdamnite/Ubuntu
 ```
 chmod +x goAdamnite/Ubuntu/gnite
 ```
-
+```
+chmod +x goAdamnite/Ubuntu/gnite-test
+```
 ```
 ./gnite account new
 ```
