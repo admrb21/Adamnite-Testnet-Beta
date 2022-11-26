@@ -50,7 +50,7 @@ screen -S adamnite
 
 
 ### Token Gönderme: 
-* [Discord](https://discord.gg/adamnite-921093307533230111) kanalından test token isteyin. Şimdilik @toucan dan dm ile isteyin. Public keyinizi dm atın.
+* [Discord](https://discord.gg/adamnite-921093307533230111) kanalından test token isteyin. Şimdilik DM'den Tsimafei#6578 veya Toucan#5099. 8 saat içinde yanıt almazsanız, DM Arch2230.
 * goAdamnite/Ubuntu klasörünün içinde olduğunuzdan emin olun.
 * Yukarıda almış olduğunuz public key aşağıdaki --> "your public address" ile değiştirin 
 
