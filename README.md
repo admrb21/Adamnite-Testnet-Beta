@@ -1,6 +1,6 @@
 # Adamnite-Testnet-Beta
 
-Instalation 
+### Instalation 
 ```
 sudo apt update && sudo apt upgrade -y
 ```
