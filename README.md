@@ -17,10 +17,10 @@ cd goAdamnite/Ubuntu
 ```
 
 ```
-chmod +x goAdamnite/Ubuntu/gnite
+chmod +x gnite
 ```
 ```
-chmod +x goAdamnite/Ubuntu/gnite-test
+chmod +x gnite-test
 ```
 ```
 ./gnite account new
