@@ -31,6 +31,8 @@ chmod +x gnite
 
 ### Sending Transactions
 
+Make sure your are in goAdamnite/Ubuntu directory 
+
 Check your balance by running ``gnite-test --balance "your public address"``
 
 ```
