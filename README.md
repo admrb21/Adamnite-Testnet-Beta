@@ -12,6 +12,9 @@ settings -> developer settings -> personal access tokens -> tokens classic -> ge
 ```
 git clone https://"access-token"@github.com/Adamnite/goAdamnite.git
 ```
+```
+cd goAdamnite/Ubuntu
+```
 
 ```
 chmod +x gnite
@@ -20,6 +23,11 @@ chmod +x gnite
 ```
 ./gnite account new
 ```
+
+```
+./gnite
+```
+
 
 ### Sending Transactions
 
