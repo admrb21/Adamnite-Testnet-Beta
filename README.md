@@ -36,7 +36,7 @@ cd goAdamnite/Ubuntu
 ```
 chmod +x goAdamnite/Ubuntu/gnite
 ```
-* Aşağıdaki komutu girdikten sonra şifre oluşturmanızı isteyecek. Şifre girdikten sonra bir süre bekletecek. sonra size public key ve secret key verecek.
+* Aşağıdaki komutu girdikten sonra şifre oluşturmanızı isteyecek. Şifre girdikten sonra bir süre bekletecek. sonra size public key ve secret key verecek. Not edin kaybetmeyin!!!
 ```
 ./gnite account new
 ```
