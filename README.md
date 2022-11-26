@@ -1,8 +1,9 @@
 # Adamnite-Testnet-Beta
 
-
-### Kurulum / Instalation 
-Repo private olduğu için access tokene ihtiyacımız var, bunun için;
+Instalation 
+```
+sudo apt update && sudo apt upgrade -y
+```
 
 Since the repo is private, we need access tokens, for this;
 
@@ -12,38 +13,27 @@ settings -> developer settings -> personal access tokens -> tokens classic -> ge
 git clone https://"access-token"@github.com/Adamnite/goAdamnite.git
 ```
 
-
 ```
-chmod u=rwx,g=r,o=r ./nite
-```
-
-```
-./nite --datadir account1 init test.json
+chmod +x gnite
 ```
 
 ```
-./nite account new
-```
-Move the private key that was generated to the keystore directory in the account1 folder.
-
-Oluşturulan private keyi, account1 klasöründeki keystore dizinine taşıyın.
-```
-./nite --datadir account1 --port 30312 --nat extip:"your IPV4 address" --bootnodes 'gnite://c868aa9d1d79714d82b13baad504877ac7d0404999782f2b915b5588b9322de8ef137f2d225f34431985894f65ea5634332f178c32b51d23e09842e2d078bec9@38.17.51.24:0?discport=30301' --allow-insecure-unlock --unlock "your account's public address" --stake
+./gnite account new
 ```
 
 ### Sending Transactions
-First, make sure you are in the nite-test directory. 
 
-Öncelikle, nite-test dizininde olduğunuzdan emin olun.
-
-Check your balance by running ``nite-test --balance "your public address"``
-
-Bakiyenizi bu komutu çalıştırarak kontrol edin ``nite-test --balance "your public address"``
+Check your balance by running ``gnite-test --balance "your public address"``
 
 ```
-./nite-test --sendaddr "the address you want to send coins to" --recaddr "your public address" --amount "the amount you want to send" --keyfile "the directory where you saved your keyfile in the account creation step --password "your password from the previous step"
+./gnite --sendaddr "the address you want to send coins to" --recaddr "your public address" --amount "the amount you want to send"
 ```
 
-Run nite-test -h for help and additional commands.
+### Staking
 
-Yardım ve ek komutlar için nite-test -h komutunu çalıştırın.
+```
+./gnite --sendaddr "your address" --recaddr "the account you want to stake your coins to (can be one of the public accounts listed in the beta testing channel)" --amount "the amount you want to send" --txtype true
+```
+
+Run ``./gnite-test -h`` for help and additional commands.
+
