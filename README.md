@@ -15,7 +15,7 @@ Bu adımlardan sonra açılan pencerede
  * gist
  * notifications
  * write:discussion
-kutucuklarını işaretleyin.
+kutucuklarını işaretleyin ve en altta Generate Token tuşuna basın.
 #### Yukarıdaki adımlardan sonra
  * "access-token" yerine --> ghp_tkUD99pU....................... şeklinde bir kod oluşacak onu yazın
  
