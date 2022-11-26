@@ -33,7 +33,7 @@ chmod +x gnite
 
 Make sure your are in goAdamnite/Ubuntu directory and have test NITE.
 
-Check your balance by running ``gnite-test --balance "your public address"``
+Check your balance by running ``./gnite-test --balance "your public address"``
 
 ```
 ./gnite-test --sendaddr "the address you want to send coins to" --recaddr "your public address" --amount "the amount you want to send"
