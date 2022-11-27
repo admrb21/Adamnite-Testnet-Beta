@@ -1,4 +1,5 @@
 # Adamnite-Testnet-Beta
+<h1 align="center"> <img src="https://pbs.twimg.com/media/FgbLe38XoAE7ImO?format=png&name=large" width="650"></h1>
 
 ### Güncelleme yapıyoruz: 
 ```
