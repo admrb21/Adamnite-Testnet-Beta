@@ -19,9 +19,9 @@ Bu adımlardan sonra açılan pencerede
  * gist
  * notifications
  * write:discussion
-kutucuklarını işaretleyin ve en altta Generate Token tuşuna basın.
+kutucuklarını işaretleyin ve en altta ``Generate Token`` tuşuna basın.
 #### Yukarıdaki adımlardan sonra
- * "access-token" yerine --> ghp_tkUD99pU....................... şeklinde bir kod oluşacak onu yazın
+ * ``"access-token"`` yerine --> ``ghp_tkUD99pU.......................`` yukarıda ``Generate Token`` yaptığınızda oluşan kodu yazın.
  
 </br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/560QzDh/a1.png" alt="a1" border="0"></a>
