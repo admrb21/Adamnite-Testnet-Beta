@@ -4,7 +4,10 @@
 ```
 sudo apt update && sudo apt upgrade -y
 ```
-
+* Aşağıdaki işlemde "access-token" yerine yazılacak kod için hemen aşağıdaki adımları izleyin.
+```
+git clone https://"access-token"@github.com/Adamnite/goAdamnite.git
+```
 ### Aşağıdaki adımları yapın:
 
 Kendi github profilinizden aşağıdaki adımları izleyin.
@@ -25,10 +28,6 @@ kutucuklarını işaretleyin ve en altta Generate Token tuşuna basın.
 <a href="https://ibb.co/BzpGZ8Z"><img src="https://i.ibb.co/znMFRKR/a3.png" alt="a3" border="0"></a>
 </br>
 
-
-```
-git clone https://"access-token"@github.com/Adamnite/goAdamnite.git
-```
 ```
 cd goAdamnite/Ubuntu
 ```
