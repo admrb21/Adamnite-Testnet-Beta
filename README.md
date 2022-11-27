@@ -64,7 +64,9 @@ Bakiyenizi kontrol edin:  ``./gnite-test --balance "your public address"``
 ```
 
 ### Stake
-* 
+* ``"your address"`` --> yerine public key adresiniz
+* ``"the account you want to stake your coins to (can be one of the public accounts listed in the beta testing channel)"`` --> yerine dc de ``beta-testing`` kanalında paylaşılan adreslerden birini girin
+* ``"the amount you want to send"`` --> göndermek istediğiniz miktarı girin.
 ```
 ./gnite-test --sendaddr "your address" --recaddr "the account you want to stake your coins to (can be one of the public accounts listed in the beta testing channel)" --amount "the amount you want to send" --txtype true
 ```
