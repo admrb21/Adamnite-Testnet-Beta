@@ -67,6 +67,12 @@ Bakiyenizi kontrol edin:  ``./gnite-test --balance "your public address"``
 ```
 ./gnite-test --sendaddr "your address" --recaddr "the account you want to stake your coins to (can be one of the public accounts listed in the beta testing channel)" --amount "the amount you want to send" --txtype true
 ```
+### Yararlı Komutlar:
 
-Run ``./gnite-test -h`` for help and additional commands.
+*  ``./gnite-test -h`` kullanılabilecek komutları görebilmek için.
+* ``./gnite-test --balance "your public address"`` bakiye kontrolü yaparken ``-bash: ./gnite-test: Permission denied`` hatası alırsanız. aşağıdaki komutları girin.
+```
+cd goAdamnite/Ubuntu
+chmod +x gnite-test
+```
 
