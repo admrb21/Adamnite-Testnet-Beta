@@ -55,9 +55,9 @@ screen -S adamnite
 * Yukarıda almış olduğunuz public key aşağıdaki --> "your public address" ile değiştirin 
 
 Bakiyenizi kontrol edin:  ``./gnite-test --balance "your public address"``
-* "the address you want to send coins to" --> göndermek istediğiniz kişinin adresi
-* "your public address" --> sizin adresiniz
-* "the amount you want to send" --> miktar girin
+* ``"the address you want to send coins to"`` --> göndermek istediğiniz kişinin adresi
+* ``"your public address"`` --> sizin adresiniz
+* ``"the amount you want to send"`` --> miktar girin
 
 ```
 ./gnite-test --sendaddr "the address you want to send coins to" --recaddr "your public address" --amount "the amount you want to send"
