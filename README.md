@@ -4,8 +4,6 @@
 ```
 sudo apt update && sudo apt upgrade -y
 ```
-
-We download the libraries we will use in the installation
 ```
 sudo apt install make clang pkg-config libssl-dev libclang-dev build-essential git curl ntp jq llvm tmux htop screen unzip cmake -y
 ```
