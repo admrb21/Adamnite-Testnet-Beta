@@ -1,5 +1,7 @@
 # Adamnite-Testnet-Beta
 
+System Requirements - 5 core CPU | 8GB of RAM | 10GB of free HDD or SSD Space
+
 ### Instalation 
 ```
 sudo apt update && sudo apt upgrade -y
