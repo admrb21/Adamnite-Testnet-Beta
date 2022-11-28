@@ -43,13 +43,13 @@ Make sure your are in goAdamnite/Ubuntu directory and have test NITE.
 Check your balance by running ``./gnite-test --balance "your public address"``
 
 ```
-./gnite-test --sendaddr "the address you want to send coins to" --recaddr "your public address" --amount "the amount you want to send"
+./gnite-test --sendaddr "the address you want to send coins to" --recaddr "your public address" --amount "the amount you want to send --password "your password"
 ```
 
 ### Staking
 
 ```
-./gnite-test --sendaddr "your address" --recaddr "the account you want to stake your coins to (can be one of the public accounts listed in the beta testing channel)" --amount "the amount you want to send" --txtype true
+./gnite-test --sendaddr "your address" --recaddr "the account you want to stake your coins to (can be one of the public accounts listed in the beta testing channel)" --amount "the amount you want to send" --txtype true --password "your password"
 ```
 
 Run ``./gnite-test -h`` for help and additional commands.
