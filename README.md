@@ -14,8 +14,9 @@ Since the repo is private, we need access tokens, for this;
 
 settings -> developer settings -> personal access tokens -> tokens classic -> generate new token
 
+Replace ACCES_TOKEN below with your own token (like ghp_fggF......)
 ```
-git clone https://"access-token"@github.com/Adamnite/goAdamnite.git
+git clone https://ACCES_TOKEN@github.com/Adamnite/goAdamnite.git
 ```
 ```
 cd goAdamnite/Ubuntu
